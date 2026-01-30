@@ -1,0 +1,303 @@
+# Irish-Language Research Collection
+
+*Curated documents covering Celtic studies, Irish language learning, Belfast heritage, and Gaelic culture.*
+
+---
+
+## Usage Notice
+
+**These resources are provided for research and educational purposes only.** They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland, north, south, east, or west, across all religious and cultural backgrounds. The future of the Irish language depends on the safety and wellbeing of all our children.
+
+---
+
+## Language Learning Resources
+
+### Cúpla Focal - Notes for Complete Beginners
+![Notes for complete beginners](previews/notes_for_complete_beginners_preview.png)
+
+*Beginner's guide by Stiofán Carson*
+
+---
+
+### iRish Language Basic Conversation
+![Basic Conversation](previews/basic_conversation_preview.png)
+
+*Language learning resource from East Belfast Mission's Turas initiative*
+
+---
+
+### Is Maith Liom
+![Is Maith Liom](previews/is_maith_liom_preview.png)
+
+*Multilingual children's book (Irish/Spanish/English) by Ciara Ní Dhuinn about self-acceptance*
+
+---
+
+### uimhreacha / Numbers
+![Numbers](previews/numbers_turas_preview.png)
+
+*Bilingual numbers resource from Turas initiative*
+
+---
+
+### Turas Verbs
+![Turas Verbs](previews/turas_verbs_preview.png)
+
+*Irish verb conjugation charts for present, past, and future tenses*
+
+---
+
+### ATLAS BUNSCOILE
+![Atlas Bunscoile](previews/atlas_bunscoile_preview.png)
+
+*Primary school atlas published by An Gúm*
+
+---
+
+### Áiseanna Iar-bhunscoile
+![Áiseanna Iar-bhunscoile](previews/aiseanna_iar_bhunscoile_preview.png)
+
+*Complete list of post-primary teaching resources (9th edition, November 2012) from An Chomhairle um Oideachas Gaeltachta & Gaelscolaíochta*
+
+---
+
+### Irish Language Phrase Card 2018
+![Irish Language Phrase Cards](previews/irish_language_phrase_cards_preview.png)
+
+*Bilingual phrase cards from Bliain na Gaeilge 2018 celebration*
+
+---
+
+### Snazzy Frásaí / Useful Phrases in Irish
+![Simple Steps to Silver Fáinne](previews/simple_steps_to_silver_fainne_preview.png)
+
+*Turas community initiative phrasebook with useful Irish phrases*
+
+---
+
+### FAIGH FÁINNE CAITH FÁINNE
+![faihh fáinne caith fáinne](previews/faigh_fainne_caith_fainne_preview.png)
+
+*"Simple Steps to Silver Fáinne" booklet with audio support*
+
+---
+
+### Ár dTeanga DO ROGHA! Scrúdú an Fháinne
+![scrudu an fhainne](previews/scrudu_an_fhainne_preview.png)
+
+*Irish language proficiency exam preparation book*
+
+---
+
+### I dTreo Fáinne Óir
+![I dTreo Fáinnr Óir](previews/i_dtreo_fainne_oir_preview.png)
+
+*Gold Ring proficiency program with 15 extension questions and online audio files*
+
+---
+
+### FUAIMEANNA NA GAEILGE (Complete)
+![Fuaimeanna na Gaeilge Complete](previews/fuaimeanna_na_gaeilge_complete_preview.png)
+
+*Beginner's course on Irish phonetics and phonology by Brian Ó Raghallaigh (Cois Life Teoranta, 2014) - Complete textbook covering phonetic variations across dialects*
+
+---
+
+### Liosta iomlán áiseanna teagaisc IAR-BHUNSCOIL
+![secondary resources](previews/secondary_resources_catalog_preview.png)
+
+*Complete list of post-primary teaching resources*
+
+---
+
+## Cultural & Heritage Publications
+
+### An Cheathrú Ghaeltachta
+![An Cheathrú Ghaeltachta](previews/an_cheathru_ghaeltachta_preview.png)
+
+*Gaeltacht Quarter West Belfast promotional guide with artistic design*
+
+---
+
+### Oidhreacht an Iarthair / Heritage of West Belfast
+![Heritage of West Belfast](previews/heritage_of_west_belfast_preview.png)
+
+*Heritage guide from Fáilte Feirste Thiar promoting West Belfast tourism*
+
+---
+
+### The Gaelic Placenames of Belfast
+![The Gaelic Placenames of Belfast](previews/gaelic_placenames_of_belfast_preview.png)
+
+*Linguistic/geographical study of Belfast place names with Gaelic translations*
+
+---
+
+### THE LANGUAGES OF ULSTER
+![The Languages of Ulster](previews/languages_of_ulster_preview.png)
+
+*Exploring links between Gaelic and Scots in Ulster - the people, places and languages*
+
+---
+
+### Culturlann McAdam Ó Fiaich
+![Cultúrlann Leaflet](previews/culturlann_leaflet_preview.png)
+
+*Irish arts center on Falls Road with basic Irish phrase translations*
+
+---
+
+### Culturlann McAdam Phrasebook
+![culturlann mcadam](previews/culturlann_mcadam_phrasebook_preview.png)
+
+*Practical Irish phrases with phonetic pronunciations*
+
+---
+
+### Tóg go Bog é ag Foghlaim
+![Tóg go Bog é ag Foghlaim](previews/tog_go_bog_e_ag_foghlaim_preview.png)
+
+*Irish language learning book for children and youth - "Take it easy while learning"*
+
+---
+
+### Carn 190 (Spring 2025)
+![Carn A link Between the Celtic Nations](previews/carn_celtic_nations_preview.png)
+
+*Celtic studies magazine covering Kernog, Mannin, Alba, Breizh, Éire, Cymru*
+
+---
+
+### Want to find out more about Irish?
+![Want to find out more about Irish](previews/want_to_find_more_about_irish_preview.png)
+
+*Foras na Gaeilge information brochure about Irish language learning*
+
+---
+
+### Belfast Hills TOWNLANDS
+![Belfast Hills Townloads](previews/belfast_hills_townlands_preview.png)
+
+*Belfast Hills Landscape Partnership publication on townlands geography*
+
+---
+
+### Belfast Hills Townlands
+![belfast hills townlands](previews/belfast_hills_townlands_preview.png)
+
+*Alternative townlands heritage guide*
+
+---
+
+## Academic & Research Publications
+
+### COLLÈGE DES IRLANDAIS PARIS & IRISH STUDIES (Complete)
+![College des Irlandais Paris Complete](previews/college_des_irlandais_paris_complete_preview.png)
+
+*Scholarly work by Proinsias Mac Cana on Irish College in Paris and Irish studies (199 pages, volumes 1 & 2 merged)*
+
+---
+
+### Our Tangled Speech (Complete)
+![Our Tangled Speech Complete](previews/our_tangled_speech_complete_preview.png)
+
+*Essays by Aodán Mac Póilín on Irish language, identity, and cultural politics (311 pages, 4 parts merged)*
+
+---
+
+### A Gaelic History of East Belfast
+![A Gaelic History of East Belfast McCoy](previews/a_gaelic_history_of_east_belfast_mccoy_preview.png)
+
+*Historical study by Gordon McCoy with maps of Gaelic East Belfast*
+
+---
+
+### Protastúnaigh an lae inniu agus an Ghaeilge
+![Contemporary Protestant Learners of Irish](previews/contemporary_protestant_learners_of_irish_preview.png)
+
+*Research on contemporary Protestant learners of Irish by Gordon McCoy agus Roise Ní Bhraonáin*
+
+---
+
+### Gaeilgeoirí of the Great War
+![Geilgeoirí of the Great War](previews/gaeilgeoiri_of_the_great_war_preview.png)
+
+*Irish-speaking soldiers from East Belfast in WW1 - National Lottery Heritage Fund research project*
+
+---
+
+### Saol trí Ghaeilge / Life through Irish
+![tense turas](previews/life_through_irish_saol_tri_ghaeilge_preview.png)
+
+*Early childhood services and family events review in West Belfast areas by Dr. Órla Ní Ghlór (June 2024)*
+
+---
+
+### Ethnic Diversity and Environmental Leadership in Northern Ireland
+![ethnic diversity](previews/ethnic_diversity_environmental_leadership_ni_preview.png)
+
+*ARK Policy Brief by Jonny Hanson, Ann Marie Gray, Lori Gatsi-Barnett and Takura Makoni*
+
+---
+
+### James Hardiman Library - Special Collections
+![james hardiman library](previews/james_hardiman_library_preview.png)
+
+*Special collections highlights by Marie Boran & Olivia Lardner (©2016)*
+
+---
+
+## Community & Educational Initiatives
+
+### VISION 2025
+![East Belfast Mission](previews/east_belfast_mission_vision2025_preview.png)
+
+*East Belfast Mission (Methodist Church in Ireland) 2025 vision document*
+
+---
+
+### Scoil na Seolta
+![Discover a nee educational opportunity](previews/discover_a_new_educational_opportunity_east_belfast_preview.png)
+
+*Integrated Primary School bringing integrated and Irish-medium education together in east Belfast*
+
+---
+
+### Céad Mile Fáilte
+![Leabhráin Eolais faoin Ghaeilge](previews/Leabhráin%20Eolais%20faoin%20Ghaeilge_preview.png)
+
+*Multilingual (Irish/Ukrainian/English) booklet celebrating diversity through Irish from Conradh na Gaeilge*
+
+---
+
+### Laochra Loch Lao
+![leanaí loch lao](previews/leanaio_loch_lao_preview.png)
+
+*CLG GAA club youth programme for children born 2021*
+
+---
+
+### Turas Materials
+![turas 1_*](previews/turas_materials_preview.png)
+
+*Turas community initiative materials*
+
+---
+
+## Document Statistics
+
+- **Total Documents**: 37 PDFs + 37 Previews
+- **Language Learning Resources**: 12
+- **Cultural & Heritage Publications**: 11
+- **Academic & Research Publications**: 8
+- **Community & Educational Initiatives**: 6
+
+---
+
+## Organizations Referenced
+
+**Foras na Gaeilge** • **Conradh na Gaeilge** • **East Belfast Mission** • **Turas** • **An Chomhairle um Oideachas Gaeltachta & Gaelscolaíochta** • **Cois Life Teoranta** • **An Gúm** • **Culturlann McAdam Ó Fiaich** • **COLLÈGE DES IRLANDAIS PARIS** • **ARK** • **Belfast Hills Landscape Partnership** • **James Hardiman Library** • **National Lottery Heritage Fund**
+
+---
+
+*Generated: 2025-01-30 • Source: `.context/lens/` directory*
