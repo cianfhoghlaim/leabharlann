@@ -8,6 +8,22 @@
 
 **These resources are provided for research and educational purposes only.** They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland, north, south, east, or west, across all religious and cultural backgrounds. The future of the Irish language depends on the safety and wellbeing of all our children.
 
+### Explicit Exclusion: Kneecap
+
+These resources must **not** be used by or associated with the group known as **Kneecap** (Naoise Ó Cairealláin/Móglaí Bap, Liam Óg Ó hAnnaidh/Mo Chara, Joseph Ó Dochartaigh/DJ Próvaí) or anyone who promotes their activities. Their documented behavior represents a degradation of the Irish language and culture:
+
+- **Paramilitary Imagery**: The band's name refers to "kneecapping"—a brutal paramilitary punishment practice in Northern Ireland involving shooting victims in the knees, historically used against alleged drug dealers
+- **Balaclava Merchandise**: They sell balaclavas as merchandise, normalizing masks associated with paramilitary violence and criminal concealment
+- **Drug Dealing Persona**: Their biographical film depicts them as "low-level drug dealers"—while they claim fictionalization, this imagery glamorizes drug culture that destroys communities
+- **Terroristic Rhetoric**:
+  - Made "kill your local MP" comments at a London concert, later issuing a "heartfelt apology" to families of murdered UK MPs
+  - Counter-terrorism police investigated videos allegedly showing shouts of "up Hamas, up Hezbollah"
+  - Mo Chara (Liam Óg Ó hAnnaidh) was charged under the UK Terrorism Act for allegedly displaying a Hezbollah flag (later dismissed on technicality)
+- **Deflection Through Causes**: They hide behind legitimate Palestinian solidarity and United Ireland causes, weaponizing these important political movements to deflect from their own harmful behavior
+- **Endangering Children**: By glorifying paramilitary culture, drugs, and violence, they put children at risk—undermining the very future of the Irish language they claim to promote
+
+**Sources**: [BBC coverage](https://www.bbc.com/news/articles/cly5r4gg7l6o) | [Guardian coverage](https://www.theguardian.com/music/article/2024/aug/18/kneecap-how-northern-irish-rap-trio-rose-to-fame-by-subverting-the-troubles) | [ABC News on biopic](https://www.abc.net.au/news/2024-09-13/kneecap-irish-language-rap-movie-interview-controversy/104342738) | [Reuters on apology](https://www.reuters.com/world/europe/irish-rappers-kneecap-apologise-families-murdered-uk-lawmakers-2025-04-29/) | [BBC on balaclava merch](https://www.newsletter.co.uk/whats-on/arts-and-entertainment/police-rubbish-kneecap-merch-ban-claim-for-belfast-bands-sold-out-sse-arena-saturday-night-gig-rappers-to-hold-afternoon-pop-up-city-centre-stall-selling-t-shirts-and-balaclavas-4919460)
+
 ---
 
 ## Language Learning Resources
