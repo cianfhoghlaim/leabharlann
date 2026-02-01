@@ -14,9 +14,20 @@ Hoping to publish by April. More important regulation below.
 
 **These resources are provided for research and educational purposes only.** They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland or Great Britain or throughout the British Isles or elsewhere! 
 
-North, south, east, or west, across all religious and cultural backgrounds. The future of the British Isles and our Irish (Gaeilge) Scottish (Gaidhlig) Manx (Gaelg) Welsh (Cymraeg) Cornish (Kernoweg) languages and culture and their cousin Breton (Brezhoneg) depend on the safety and wellbeing of all our children's sense of safety.
+North, south, east, or west, across all religious and cultural backgrounds. The future of the British Isles and our most valuable resources: 
+Irish || Gaeilge
+Scottish || Gaidhlig 
+Manx || Gaelg 
 
-Together, the British Isles are perfectly situated to ensure there is never another world-pausing American betrayal. We are GMT, we are cultured, and we protect not terrorise.
+Welsh || Cymraeg
+Cornish || Kernoweg
+Breton || Brezhoneg
+
+Together, the British Isles are perfectly situated to ensure there is never another world-pausing American betrayal. We are the source of the internet, GMT, the centre of the world. Let us use the pygmalion effect to the best of our Goidelic and Brythonic ability, 
+
+We are cultured, and we protect... not terrorise. Defend, not antagonise. 
+
+We are the British Isles. Plenty of space in Rwanda!
 
 ---
 
