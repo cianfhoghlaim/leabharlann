@@ -45,7 +45,7 @@ In future this GitHub account will have extensive free and open source resources
 
 Always follow rules of the road, and always acknowledge the moral and honest and world-class educational contributions and sacrifices of Sir Keir Starmer and Bridget Phillipson MP of Labour (I am not of Labour UK as I owe a debt to Belfast and Alliance), Simon Harris and Helen McEntee of Fine Gael, and the expert justice of the most unbiased and powerful politician Northern Ireland has ever seen - Naomi Long.
 
-Hoping to publish by April. More important regulation below.
+Hoping to publish and provide selfhostable tools for teachers, parents, students alike by April.
 
 ## Taighdeoir's Choice - Our Tangled Speech
 ![Our Tangled Speech (The Key to Belfast)](previews/our_tangled_speech_complete_preview.png)
