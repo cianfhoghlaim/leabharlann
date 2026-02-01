@@ -5,7 +5,7 @@
 
 **These resources are provided for research and educational purposes only.** 
 
-North, south, east, or west, across all religious and cultural backgrounds. The future of the British Isles depends on our most valuable resources and the protections they give from monolingual algorithmic manipulations and advertisements: 
+The future of the British Isles depends on our most valuable resources and the protections they give from monolingual algorithmic manipulations and advertisements: 
 
 Irish Scottish Manx
   || Gaeilge Gaidhlig Gaelg 
@@ -38,6 +38,7 @@ They must not be used by anyone who promotes, supports, or is affiliated with gr
 ---
 
 ## About
+
 I am a registered politican with [Fine Gael](https://www.finegael.ie) and [Alliance Party](https://www.allianceparty.org) with my dual Irish-British passports and am a Newly Qualified Teacher (Mathematics/Applied Mathematics) with the [Teaching Council of Ireland](https://my-tc.teachingcouncil.ie/Find-a-Teacher/Teacher?entityId=6c60e730-05f9-eb11-94ef-0022489cc4c7). 
 
 In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle... only for people who promote the concept of consent rather than bullying/abuse - we don't need to hide tricky words from kids, just don't bully others mentally/physically/sexually... easy, and important to explain to them after lazy parents arguing over international issues (Trump, Palestine, Israel) with the weight of domestic issues and not acknowledging the world-class improvements to our education system while they argue with eachother online setting horrible examples.
@@ -46,8 +47,10 @@ Always follow rules of the road, and always acknowledge the moral and honest and
 
 Hoping to publish by April. More important regulation below.
 
-## Taighdeoir's Choice:
-[The Key to Belfast](https://github.com/cianfhoghlaim/leabharlann/blob/main/our_tangled_speech_complete.pdf)
+## Taighdeoir's Choice - Our Tangled Speech
+![Our Tangled Speech (The Key to Belfast)](previews/our_tangled_speech_complete_preview.png)
+
+*Essays by Aodán Mac Póilín on Irish language, identity, and cultural politics*
 
 ## Language Learning Resources
 
@@ -58,7 +61,7 @@ Hoping to publish by April. More important regulation below.
 
 ---
 
-### iRish Language Basic Conversation
+### Irish Language Basic Conversation
 ![Basic Conversation](previews/basic_conversation_preview.png)
 
 *Language learning resource from East Belfast Mission's Turas initiative*
@@ -234,13 +237,6 @@ Hoping to publish by April. More important regulation below.
 ![College des Irlandais Paris Complete](previews/college_des_irlandais_paris_complete_preview.png)
 
 *Scholarly work by Proinsias Mac Cana on Irish College in Paris and Irish studies (199 pages, volumes 1 & 2 merged)*
-
----
-
-### Our Tangled Speech (Complete)
-![Our Tangled Speech Complete](previews/our_tangled_speech_complete_preview.png)
-
-*Essays by Aodán Mac Póilín on Irish language, identity, and cultural politics (311 pages, 4 parts merged)*
 
 ---
 
