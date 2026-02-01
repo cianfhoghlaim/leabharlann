@@ -2,7 +2,7 @@
 *Curated documents covering Celtic studies, Irish language learning, Belfast heritage, and Gaelic culture.*
 
 
-I am a registered politican with [Fine Gael](www.finegael.ie) and [Alliance Party](www.allianceparty.org) with my dual Irish-British passports and am a Newly Qualified Teacher (Mathematics/Applied Mathematics) with the [Teaching Council of Ireland](https://my-tc.teachingcouncil.ie/Find-a-Teacher/Teacher?entityId=6c60e730-05f9-eb11-94ef-0022489cc4c7). 
+I am a registered politican with [Fine Gael](https://www.finegael.ie) and [Alliance Party](https://www.allianceparty.org) with my dual Irish-British passports and am a Newly Qualified Teacher (Mathematics/Applied Mathematics) with the [Teaching Council of Ireland](https://my-tc.teachingcouncil.ie/Find-a-Teacher/Teacher?entityId=6c60e730-05f9-eb11-94ef-0022489cc4c7). 
 
 In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle... only for people who promote the concept of consent rather than bullying/abuse - we don't need to hide tricky words from kids, just don't bully others mentally/physically/sexually... easy! 
 
