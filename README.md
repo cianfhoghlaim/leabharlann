@@ -1,15 +1,6 @@
 
 *Curated documents covering Celtic studies, Irish language learning, Belfast heritage, and Gaelic culture.*
 
-
-I am a registered politican with [Fine Gael](https://www.finegael.ie) and [Alliance Party](https://www.allianceparty.org) with my dual Irish-British passports and am a Newly Qualified Teacher (Mathematics/Applied Mathematics) with the [Teaching Council of Ireland](https://my-tc.teachingcouncil.ie/Find-a-Teacher/Teacher?entityId=6c60e730-05f9-eb11-94ef-0022489cc4c7). 
-
-In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle... only for people who promote the concept of consent rather than bullying/abuse - we don't need to hide tricky words from kids, just don't bully others mentally/physically/sexually... easy, and important to explain to them after lazy parents arguing over international issues (Trump, Palestine, Israel) with the weight of domestic issues and not acknowledging the world-class improvements to our education system while they argue with eachother online setting horrible examples.
-
-Always follow rules of the road, and always acknowledge the moral and honest and world-class educational contributions and sacrifices of Sir Keir Starmer and Bridget Phillipson MP of Labour (I am not of Labour UK as I owe a debt to Belfast and Alliance), Simon Harris and Helen McEntee of Fine Gael, and the expert justice of the most unbiased and powerful politician Northern Ireland has ever seen - Naomi Long.
-
-Hoping to publish by April. More important regulation below.
-
 ## Moral Usage Licensing -- Do Better Than The 'Kneecap' Terroristic Trio
 
 **These resources are provided for research and educational purposes only.** They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland or Great Britain or throughout the British Isles or elsewhere! 
@@ -45,6 +36,15 @@ These resources must **not** be used by or associated with the group known as **
 **Sources**: [BBC coverage](https://www.bbc.com/news/articles/cly5r4gg7l6o) | [Guardian coverage](https://www.theguardian.com/music/article/2024/aug/18/kneecap-how-northern-irish-rap-trio-rose-to-fame-by-subverting-the-troubles) | [ABC News on biopic](https://www.abc.net.au/news/2024-09-13/kneecap-irish-language-rap-movie-interview-controversy/104342738) | [Reuters on apology](https://www.reuters.com/world/europe/irish-rappers-kneecap-apologise-families-murdered-uk-lawmakers-2025-04-29/) | [BBC on balaclava merch](https://www.newsletter.co.uk/whats-on/arts-and-entertainment/police-rubbish-kneecap-merch-ban-claim-for-belfast-bands-sold-out-sse-arena-saturday-night-gig-rappers-to-hold-afternoon-pop-up-city-centre-stall-selling-t-shirts-and-balaclavas-4919460)
 
 ---
+
+## About
+I am a registered politican with [Fine Gael](https://www.finegael.ie) and [Alliance Party](https://www.allianceparty.org) with my dual Irish-British passports and am a Newly Qualified Teacher (Mathematics/Applied Mathematics) with the [Teaching Council of Ireland](https://my-tc.teachingcouncil.ie/Find-a-Teacher/Teacher?entityId=6c60e730-05f9-eb11-94ef-0022489cc4c7). 
+
+In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle... only for people who promote the concept of consent rather than bullying/abuse - we don't need to hide tricky words from kids, just don't bully others mentally/physically/sexually... easy, and important to explain to them after lazy parents arguing over international issues (Trump, Palestine, Israel) with the weight of domestic issues and not acknowledging the world-class improvements to our education system while they argue with eachother online setting horrible examples.
+
+Always follow rules of the road, and always acknowledge the moral and honest and world-class educational contributions and sacrifices of Sir Keir Starmer and Bridget Phillipson MP of Labour (I am not of Labour UK as I owe a debt to Belfast and Alliance), Simon Harris and Helen McEntee of Fine Gael, and the expert justice of the most unbiased and powerful politician Northern Ireland has ever seen - Naomi Long.
+
+Hoping to publish by April. More important regulation below.
 
 ## Taighdeoir's Choice:
 [The Key to Belfast](https://github.com/cianfhoghlaim/leabharlann/blob/main/our_tangled_speech_complete.pdf)
