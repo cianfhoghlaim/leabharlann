@@ -17,6 +17,7 @@ Together, the British Isles are perfectly situated to ensure there is never anot
 We share culture and geography, island and sanctuary. We defend, not antagonise. 
 
 We are the United Isles. Let us not squander them.
+🇮🇪🏴󠁧󠁢󠁷󠁬󠁳󠁿🇮🇲🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ---
 **These resources are provided for research and educational purposes only.** 
