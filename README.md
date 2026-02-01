@@ -46,6 +46,9 @@ These resources must **not** be used by or associated with the group known as **
 
 ---
 
+## Taighdeoir's Choice:
+[The Key to Belfast](https://github.com/cianfhoghlaim/leabharlann/blob/main/our_tangled_speech_complete.pdf)
+
 ## Language Learning Resources
 
 ### Cúpla Focal - Notes for Complete Beginners
