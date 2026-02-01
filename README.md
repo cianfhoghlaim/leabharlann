@@ -14,7 +14,7 @@ Hoping to publish by April. More important regulation below.
 
 **These resources are provided for research and educational purposes only.** They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland or Great Britain or throughout the British Isles or elsewhere! 
 
-North, south, east, or west, across all religious and cultural backgrounds. The future of the British Isles and our most valuable resources: 
+North, south, east, or west, across all religious and cultural backgrounds. The future of the British Isles depends on our most valuable resources and the protections they give from monolingual algorithmic manipulations and advertisements: 
 
 Irish Scottish Manx
   || Gaeilge Gaidhlig Gaelg 
