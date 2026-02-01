@@ -3,7 +3,7 @@
 
 ## Moral Usage Licensing -- Do Better Than The 'Kneecap' Terroristic Trio
 
-**These resources are provided for research and educational purposes only.** They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland or Great Britain or throughout the British Isles or elsewhere! 
+**These resources are provided for research and educational purposes only.** 
 
 North, south, east, or west, across all religious and cultural backgrounds. The future of the British Isles depends on our most valuable resources and the protections they give from monolingual algorithmic manipulations and advertisements: 
 
@@ -21,7 +21,7 @@ We are the British Isles. Let us not squander her.
 
 ---
 
-These resources must **not** be used by or associated with the group known as **Kneecap** (Naoise Ó Cairealláin/Móglaí Bap, Liam Óg Ó hAnnaidh/Mo Chara, Joseph Ó Dochartaigh/DJ Próvaí) or anyone who promotes their activities. Their documented behavior represents a degradation of the Irish language and culture:
+They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland or Great Britain or throughout the British Isles or elsewhere! Therefore, these resources must **not** be used by or associated with the group known as **Kneecap** (Naoise Ó Cairealláin/Móglaí Bap, Liam Óg Ó hAnnaidh/Mo Chara, Joseph Ó Dochartaigh/DJ Próvaí) or anyone who promotes their activities. Their documented behavior represents a degradation of the Irish language and culture:
 
 - **Paramilitary Imagery**: The band's name refers to "kneecapping"—a brutal paramilitary punishment practice in Northern Ireland involving shooting victims in the knees, historically used against alleged drug dealers
 - **Balaclava Merchandise**: They sell balaclavas as merchandise, normalizing masks associated with paramilitary violence and criminal concealment
