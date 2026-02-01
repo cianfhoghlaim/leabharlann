@@ -17,10 +17,10 @@ Hoping to publish by April. More important regulation below.
 North, south, east, or west, across all religious and cultural backgrounds. The future of the British Isles and our most valuable resources: 
 
 Irish Scottish Manx
-  Gaeilge Gaidhlig Gaelg 
+  || Gaeilge Gaidhlig Gaelg 
 
 Welsh Cornish Breton
-  Cymraeg Kernoweg Brezhoneg
+  || Cymraeg Kernoweg Brezhoneg
 
 Together, the British Isles are perfectly situated to ensure there is never another world-pausing American betrayal. We are the source of the internet, GMT, the centre of the world. Let us use the pygmalion effect to the best of our Goidelic and Brythonic ability, 
 
