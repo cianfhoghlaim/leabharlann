@@ -16,6 +16,8 @@ Together, the British Isles are perfectly situated to ensure there is never anot
 
 In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle only for people who promote consent, rules of the road, and Labour.
 
+I am a registered politican with Fine Gael ROI, Alliance Party NI with my dual Irish-British passports and Newly Qualified Teacher (Mathematics/Applied Mathematics) with the Teaching Council of Ireland. You need not vote for Labour but you must acknowledge the moral and honest and world-class contributions of Sir Keir Starmer and Bridget Phillipson MP need into your children's future to use my free and selfhostable resources hoping to publish by April. More important regulation below.
+
 ### Mandated Emphasis
 
 These resources must **not** be used by or associated with the group known as **Kneecap** (Naoise Ó Cairealláin/Móglaí Bap, Liam Óg Ó hAnnaidh/Mo Chara, Joseph Ó Dochartaigh/DJ Próvaí) or anyone who promotes their activities. Their documented behavior represents a degradation of the Irish language and culture:
