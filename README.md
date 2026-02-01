@@ -22,11 +22,11 @@ Irish Scottish Manx
 Welsh Cornish Breton
   || Cymraeg Kernoweg Brezhoneg
 
-Together, the British Isles are perfectly situated to ensure there is never another world-pausing American betrayal. We are the source of the internet, GMT, the centre of the world. Let us use the pygmalion effect to the best of our Goidelic and Brythonic ability, 
+Together, the British Isles are perfectly situated to ensure there is never another world-pausing American betrayal. We are the source of the internet, GMT, the centre of the world. Let us use the pygmalion effect to the best of our Goidelic and Brythonic ability.
 
-We are cultured, and we protect... not terrorise. Defend, not antagonise. 
+We share culture and geography, island and sanctuary. We defend, not antagonise. 
 
-We are the British Isles. Plenty of space in Rwanda!
+We are the British Isles. Let us not squander her.
 
 ---
 
