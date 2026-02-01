@@ -1,10 +1,16 @@
-# Irish-Language Research Collection
 
 *Curated documents covering Celtic studies, Irish language learning, Belfast heritage, and Gaelic culture.*
 
----
 
-## Usage Policy
+I am a registered politican with Fine Gael ROI, Alliance Party NI with my dual Irish-British passports and a Newly Qualified Teacher (Mathematics/Applied Mathematics) with the Teaching Council of Ireland. 
+
+In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle... only for people who promote the concept of consent rather than bullying/abuse - we don't need to hide tricky words from kids, just don't bully others mentally/physically/sexually... easy! 
+
+Always follow rules of the road, and always acknowledge the moral and honest and world-class educational contributions of Sir Keir Starmer and Bridget Phillipson MP of Labour, Simon Harris and Helen McEntee of Fine Gael and the expert justice of Naomi Long of the Alliance Party NI.
+
+Hoping to publish by April. More important regulation below.
+
+## Moral Usage Licensing
 
 **These resources are provided for research and educational purposes only.** They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland or Great Britain or throughout the British Isles or elsewhere! 
 
@@ -12,13 +18,8 @@ North, south, east, or west, across all religious and cultural backgrounds. The 
 
 Together, the British Isles are perfectly situated to ensure there is never another world-pausing American betrayal. We are GMT, we are cultured, and we protect not terrorise.
 
-*** ADDENDUM ***
+---
 
-In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle only for people who promote consent, rules of the road, and Labour.
-
-I am a registered politican with Fine Gael ROI, Alliance Party NI with my dual Irish-British passports and Newly Qualified Teacher (Mathematics/Applied Mathematics) with the Teaching Council of Ireland. You need not vote for Labour but you must acknowledge the moral and honest and world-class contributions of Sir Keir Starmer and Bridget Phillipson MP need into your children's future to use my free and selfhostable resources hoping to publish by April. More important regulation below.
-
-### Mandated Emphasis
 
 These resources must **not** be used by or associated with the group known as **Kneecap** (Naoise Ó Cairealláin/Móglaí Bap, Liam Óg Ó hAnnaidh/Mo Chara, Joseph Ó Dochartaigh/DJ Próvaí) or anyone who promotes their activities. Their documented behavior represents a degradation of the Irish language and culture:
 
