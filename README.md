@@ -10,7 +10,7 @@ Always follow rules of the road, and always acknowledge the moral and honest and
 
 Hoping to publish by April. More important regulation below.
 
-## Moral Usage Licensing
+## Moral Usage Licensing -- Do Better Than The 'Kneecap' Terroristic Trio
 
 **These resources are provided for research and educational purposes only.** They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland or Great Britain or throughout the British Isles or elsewhere! 
 
@@ -19,7 +19,6 @@ North, south, east, or west, across all religious and cultural backgrounds. The 
 Together, the British Isles are perfectly situated to ensure there is never another world-pausing American betrayal. We are GMT, we are cultured, and we protect not terrorise.
 
 ---
-## Ní Kneecap
 
 These resources must **not** be used by or associated with the group known as **Kneecap** (Naoise Ó Cairealláin/Móglaí Bap, Liam Óg Ó hAnnaidh/Mo Chara, Joseph Ó Dochartaigh/DJ Próvaí) or anyone who promotes their activities. Their documented behavior represents a degradation of the Irish language and culture:
 
