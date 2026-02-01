@@ -12,6 +12,10 @@ North, south, east, or west, across all religious and cultural backgrounds. The 
 
 Together, the British Isles are perfectly situated to ensure there is never another world-pausing American betrayal. We are GMT, we are cultured, and we protect not terrorise.
 
+*** ADDENDUM ***
+
+In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle only for people who promote consent, rules of the road, and Labour.
+
 ### Mandated Emphasis
 
 These resources must **not** be used by or associated with the group known as **Kneecap** (Naoise Ó Cairealláin/Móglaí Bap, Liam Óg Ó hAnnaidh/Mo Chara, Joseph Ó Dochartaigh/DJ Próvaí) or anyone who promotes their activities. Their documented behavior represents a degradation of the Irish language and culture:
