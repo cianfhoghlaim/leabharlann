@@ -1,9 +1,8 @@
 
-*Curated documents covering Celtic studies, Irish language learning, Belfast heritage, and Gaelic culture.*
 
 ## Moral Usage Licensing -- Do Better Than The 'Kneecap' Terroristic Trio
 
-**These resources are provided for research and educational purposes only.** 
+Curated documents covering Celtic studies, Irish language learning, Belfast heritage, and Gaelic culture throughout Catholic and Protestant communities.
 
 The future of the British Isles depends on our most valuable resources and the protections they give from monolingual algorithmic manipulations and advertisements: 
 
@@ -20,6 +19,7 @@ We share culture and geography, island and sanctuary. We defend, not antagonise.
 We are the British Isles. Let us not squander her.
 
 ---
+**These resources are provided for research and educational purposes only.** 
 
 They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland or Great Britain or throughout the British Isles or elsewhere! Therefore, these resources must **not** be used by or associated with the group known as **Kneecap** (Naoise Ó Cairealláin/Móglaí Bap, Liam Óg Ó hAnnaidh/Mo Chara, Joseph Ó Dochartaigh/DJ Próvaí) or anyone who promotes their activities. Their documented behavior represents a degradation of the Irish language and culture:
 
