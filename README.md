@@ -4,7 +4,7 @@
 
 I am a registered politican with [Fine Gael](https://www.finegael.ie) and [Alliance Party](https://www.allianceparty.org) with my dual Irish-British passports and am a Newly Qualified Teacher (Mathematics/Applied Mathematics) with the [Teaching Council of Ireland](https://my-tc.teachingcouncil.ie/Find-a-Teacher/Teacher?entityId=6c60e730-05f9-eb11-94ef-0022489cc4c7). 
 
-In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle... only for people who promote the concept of consent rather than bullying/abuse - we don't need to hide tricky words from kids, just don't bully others mentally/physically/sexually... easy! 
+In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle... only for people who promote the concept of consent rather than bullying/abuse - we don't need to hide tricky words from kids, just don't bully others mentally/physically/sexually... easy, and important to explain to them after lazy parents arguing over international issues like Trump, Palestine, Israel with the weight of deomestic issues and not acknowledging the world-class improvements to our education system while they argue with eachother online setting horrible examples.
 
 Always follow rules of the road, and always acknowledge the moral and honest and world-class educational contributions of Sir Keir Starmer and Bridget Phillipson MP of Labour, Simon Harris and Helen McEntee of Fine Gael and the expert justice of Naomi Long of the Alliance Party NI.
 
