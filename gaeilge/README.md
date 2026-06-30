@@ -1,5 +1,5 @@
 
-## Moral Usage Licensing -- Do Better Than The 'Kneecap' Terroristic Trio
+## Ní ionann Gaeilgeoir agus Poblachtach
 
 Curated documents covering Celtic studies, Irish language learning, Belfast heritage, and Gaelic culture throughout Catholic and Protestant communities.
 
@@ -11,41 +11,11 @@ Irish Scottish Manx
 Welsh Cornish Breton
   || Cymraeg Kernowek Brezhoneg
 
-Together, the British Isles are perfectly situated to ensure there is never another world-pausing American betrayal. We are the source of the internet, GMT, the centre of the world. Let us use the pygmalion effect to the best of our Goidelic and Brythonic ability.
-
 We share culture and geography, island and sanctuary. We defend, not antagonise. 
 
 We are the United Isles. Let us not squander them.
 🇮🇪🏴󠁧󠁢󠁷󠁬󠁳󠁿🇮🇲🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧
 
----
-**These resources are provided for research and educational purposes only.** 
-
-They must not be used by anyone who promotes, supports, or is affiliated with groups that engage in terroristic activities or commit crimes that endanger children and communities—anywhere in Ireland or Great Britain or throughout the British Isles or elsewhere! Therefore, these resources must **not** be used by or associated with the group known as **Kneecap** (Naoise Ó Cairealláin/Móglaí Bap, Liam Óg Ó hAnnaidh/Mo Chara, Joseph Ó Dochartaigh/DJ Próvaí) or anyone who promotes their activities. Their documented behavior represents a degradation of the Irish language and culture:
-
-- **Paramilitary Imagery**: The band's name refers to "kneecapping"—a brutal paramilitary punishment practice in Northern Ireland involving shooting victims in the knees, historically used against alleged drug dealers
-- **Balaclava Merchandise**: They sell balaclavas as merchandise, normalizing masks associated with paramilitary violence and criminal concealment
-- **Drug Dealing Persona**: Their biographical film depicts them as "low-level drug dealers"—while they claim fictionalization, this imagery glamorizes drug culture that destroys communities
-- **Terroristic Rhetoric**:
-  - Made "kill your local MP" comments at a London concert, later issuing a "heartfelt apology" to families of murdered UK MPs
-  - Counter-terrorism police investigated videos allegedly showing shouts of "up Hamas, up Hezbollah"
-  - Mo Chara (Liam Óg Ó hAnnaidh) was charged under the UK Terrorism Act for allegedly displaying a Hezbollah flag (later dismissed on technicality)
-- **Deflection Through Causes**: They hide behind legitimate Palestinian solidarity and United Ireland causes, weaponizing these important political movements to deflect from their own harmful behavior
-- **Endangering Children**: By glorifying paramilitary culture, drugs, and violence, they put children at risk—undermining the very future of the Irish language they claim to promote
-
-**Sources**: [BBC coverage](https://www.bbc.com/news/articles/cly5r4gg7l6o) | [Guardian coverage](https://www.theguardian.com/music/article/2024/aug/18/kneecap-how-northern-irish-rap-trio-rose-to-fame-by-subverting-the-troubles) | [ABC News on biopic](https://www.abc.net.au/news/2024-09-13/kneecap-irish-language-rap-movie-interview-controversy/104342738) | [Reuters on apology](https://www.reuters.com/world/europe/irish-rappers-kneecap-apologise-families-murdered-uk-lawmakers-2025-04-29/) | [BBC on balaclava merch](https://www.newsletter.co.uk/whats-on/arts-and-entertainment/police-rubbish-kneecap-merch-ban-claim-for-belfast-bands-sold-out-sse-arena-saturday-night-gig-rappers-to-hold-afternoon-pop-up-city-centre-stall-selling-t-shirts-and-balaclavas-4919460)
-
----
-
-## About
-
-I am a registered politican with [Fine Gael](https://www.finegael.ie) and [Alliance Party](https://www.allianceparty.org) with my dual Irish-British passports and am a Newly Qualified Teacher (Mathematics/Applied Mathematics) with the [Teaching Council of Ireland](https://my-tc.teachingcouncil.ie/Find-a-Teacher/Teacher?entityId=6c60e730-05f9-eb11-94ef-0022489cc4c7). 
-
-In future this GitHub account will have extensive free and open source resources for GCSE, A-Level, Junior Cycle, Senior Cycle... only for people who promote the concept of consent rather than bullying/abuse - we don't need to hide tricky words from kids, just don't bully others mentally/physically/sexually... easy, and important to explain to them after lazy parents arguing over international issues (Trump, Palestine, Israel) with the weight of domestic issues and not acknowledging the world-class improvements to our education system while they argue with eachother online setting horrible examples.
-
-Always follow rules of the road, and always acknowledge the moral and honest and world-class educational contributions and sacrifices of Sir Keir Starmer and Bridget Phillipson MP of Labour (I am not of Labour UK as I owe a debt to Belfast and Alliance), Simon Harris and Helen McEntee of Fine Gael, and the expert justice of the most unbiased and powerful politician Northern Ireland has ever seen - Naomi Long.
-
-Hoping to publish and provide selfhostable tools for teachers, parents, students alike by April.
 
 ## Taighdeoir's Choice - Our Tangled Speech
 [![Our Tangled Speech (The Key to Belfast)](previews/our_tangled_speech_complete_preview.png)](our_tangled_speech_complete.pdf)
@@ -335,4 +305,3 @@ Hoping to publish and provide selfhostable tools for teachers, parents, students
 
 ---
 
-*Generated: 2025-01-30 • Source: `.context/lens/` directory*
