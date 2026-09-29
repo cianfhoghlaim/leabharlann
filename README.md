@@ -21,6 +21,37 @@ working-archive behind the
 monorepo — every PDF here can in principle be ingested by a DLT
 filesystem source into the per-subject pipeline.
 
+> **NEW 2026-08-23** — The `ollscoil_na_gaillimhe/` subtree (the
+> maintainer's three UoG programmes: BA Maths & Education, HDip
+> Software Design, Diploma sa Ghaeilge C1) plus the transcripts in
+> `cian_mac_an_déisigh_uí_liatháin/achievement/*transcript*.pdf`
+> now feeds a **Tertiary-Level Personal Archive Pipeline** in the
+> cianfhoghlaim monorepo that lifts the corpus to feature parity
+> with the Leaving Cycle subject pipeline — typed artefacts →
+> assignments → questions → topics → code cells → reading items →
+> CA marks → transcript rows at **F-granularity** (per-question),
+> joined to the transcript for ground truth, embedded in LanceDB
+> via 4 CocoIndex v1 Apps, with 10 typed Cognee cross-archive
+> edges, and surfaced via an 8-tab Marimo notebook + Convex chat
+> action + CopilotKit component + Genie UI tile + Google ADK
+> agent. **Transferable** to any user via 9 `UNIVERSITY_*` env vars.
+>
+> Three example usage purposes the pipeline surfaces end-to-end:
+>
+> 1. **CS4423 Networks** → eigenvector centrality, neighbours in
+>    networks, graph Laplacian — joined to the future M.Sc. AI
+>    modules the maintainer is starting in 2027-09.
+> 2. **MP491 Non-Linear Systems** → handwritten maths answers
+>    (Apple Pencil + Goodnotes) routed through the 6-backend HTR
+>    ensemble (nougat + olmocr-2-7b + CogVLM + gemma-3 majority
+>    consensus), with `my_answer_latex` extracted.
+> 3. **Numerical Analysis 2** → splines, interpolation — emitted
+>    as cross-module Cognee edges for the M.Sc. AI handoff.
+>
+> See [Personal Archive → Tertiary Subject Pipeline](#personal-archive--tertiary-subject-pipeline)
+> below + the openspec change at
+> [`cianfhoghlaim/openspec/changes/2026-08-23-uog-personal-archive-tertiary-modules-v1/`](https://github.com/cianfhoghlaim/cianfhoghlaim/tree/main/openspec/changes/2026-08-23-uog-personal-archive-tertiary-modules-v1).
+
 ---
 
 ## Repository layout
@@ -237,6 +268,74 @@ and routed into the per-subject Dagster pipeline via the
 
 The `gaeilge/` corpus is the priority target — it's what powers the
 Gaeilge-side quest-pack generation for `qpack_gaeilge.baml`.
+
+### Personal Archive → Tertiary Subject Pipeline
+
+The `ollscoil_na_gaillimhe/` subtree (the user's three UoG courses'
+artefacts: BA Maths & Education, HDip Software Design, Diploma in
+Irish C1) plus the transcript PDFs in
+`cian_mac_an_déisigh_uí_liatháin/achievement/*transcript*.pdf` are
+also ingested by a dedicated DLT source (`uog_personal_archive`) and
+lifted to feature parity with the leaving-cycle subject pipeline. The
+pipeline produces typed artefacts → assignments → questions →
+topics → code cells → reading items → CA marks → transcript rows at
+F-granularity, joins to the transcript for ground truth, embeds in
+LanceDB (BGE-M3 1024-d), draws 10 typed Cognee edges, and surfaces
+via the 8-tab Marimo notebook at `notebooks/15_personal_archive.py`.
+Per the openspec change `2026-08-23-uog-personal-archive-tertiary-modules-v1/`.
+
+#### Worked examples (CS4423 / MP491 / Numerical Analysis 2 / CT511)
+
+The CS4423 (Networks) folder is the canonical worked example for the
+F-granularity extraction. From the 5 assignment PDFs plus the lecture
+notes plus the past exam, the pipeline produces:
+
+- **Module dossier** — every assignment + every question + my answer
+  text + my mark + the HTR backend used + the LaTeX form of any
+  maths + the topics covered.
+- **Topic graph** — "eigenvector centrality", "neighbours in
+  networks", "graph Laplacian", etc. connected to the M.Sc. AI
+  future-modules story (because eigenvector centrality shows up in
+  graph neural networks, which the user will study next year).
+- **Transcript join** — exact match on `(module_code, academic_year)`
+  against the BA Maths & Education transcript; "CS4423, 2020–21, A1".
+
+Same shape for MP491 (Non-Linear Systems) — handwritten answers go
+through the HTR ensemble (nougat + olmocr-2-7b + CogVLM + gemma-3
+consensus); the `my_answer_latex` field carries the LaTeX form.
+
+#### Transferability
+
+Any university student can point this pipeline at their own
+`leabharlann/<university>/` corpus by setting the 9 `UNIVERSITY_*`
+env vars (see `.env.example`) and calling
+`personal_archive_source(UniversityPersonalArchiveConfig(...))`. The
+same 8 DLT resources, 7 BAML functions, 4 CocoIndex Apps, 10 Cognee
+edges, 6 Dagster assets, 8 Marimo tabs, 5 Convex queries,
+CopilotKit + Genie + ADK agent, and 12 tests run unchanged.
+
+#### Quickstart
+
+```bash
+# Validate the openspec change
+openspec validate 2026-08-23-uog-personal-archive-tertiary-modules-v1 --strict
+
+# Run the personal-archive test suite (12 passing)
+uv run pytest tests/personal_archive/ -v
+
+# Materialise the DuckLake tables
+uv run python -c "
+import duckdb
+from dlt_sources._lakehouse import register_personal_archive_tables
+con = duckdb.connect(':memory:')
+register_personal_archive_tables(con)
+print(sorted(t[0] for t in con.execute('SHOW TABLES').fetchall()))
+"
+
+# Open the 8-tab Marimo notebook (Health / Filters / Materials /
+# URL Health / Heatmap / Recent / Lance Search / SQL Console)
+marimo edit notebooks/15_personal_archive.py
+```
 
 ---
 
